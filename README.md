@@ -1,7 +1,7 @@
 # notebooks
 Jupyter Notebook on different challenge and competition
 
-UTIVA data competition -- https://nbviewer.jupyter.org/github/casdore/notebook/blob/master/Utiva_data_competition.ipynb
+UTIVA data competition
 
 Prohack chalenge -- https://prohack.org/page/challenge
 
